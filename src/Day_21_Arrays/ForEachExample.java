@@ -7,7 +7,7 @@ public class ForEachExample {
             int [] nums = {30, 12, 150, 12};
 
             for (int i = 0; i < nums.length; i++) {
-                System.out.println("Traditional fori loop: " + nums[i]);
+                System.out.println("Traditional for loop: " + nums[i]);
             }
             System.out.println();
 

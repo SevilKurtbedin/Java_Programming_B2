@@ -1,6 +1,6 @@
 package Day_21_Arrays;
 
-import java.util.*;
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class SelectWeekDay {
